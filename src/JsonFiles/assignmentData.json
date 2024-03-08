@@ -1,0 +1,287 @@
+[
+    {
+        "ID": "1",
+        "Assignment_Title": "TCS App",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Completed",
+        "Created_Date": "2023-04-10",
+        "Started_Date": "2023-04-17",
+        "Completion_Date": "2023-06-30",
+        "TeamJson": {
+            "Designer": "Kedar Kumar,Manav Jagtap",
+            "Animator": "Om Malandkar,Swaroop Surve,Jayant shah",
+            "Sales": "Vinit Narvekar,Disha Malandkar,Rahul Upadhay"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "2",
+        "Assignment_Title": "Reliance Gaming App",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Not Started",
+        "Created_Date": "2023-04-10",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-07-24",
+        "TeamJson": {
+            "Designer": "Manav Jagtap",
+            "Animator": "Om Malandkar,Swaroop Surve,Jayant shah",
+            "Sales": "Vinit Narvekar,Disha Malandkar"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "3",
+        "Assignment_Title": "EV Addvertisement ",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Not Started",
+        "Created_Date": "2023-04-03",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-04-30",
+        "TeamJson": {
+            "Designer": "Kedar Kumar,Manav Jagtap,Rohit Agarwal",
+            "Animator": "Om Malandkar,Swaroop Surve",
+            "Sales": "Vinit Narvekar,Disha Malandkar,Jayesh Shetty"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "4",
+        "Assignment_Title": "Photo Editing App",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Completed",
+        "Created_Date": "2023-04-12",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-07-25",
+        "TeamJson": {
+            "Designer": "Kedar Kumar,Manav Jagtap,Rohit Agarwal",
+            "Animator": "Om Malandkar,Swaroop Surve,Jayant shah",
+            "Sales": "Vinit Narvekar,Disha Malandkar,Rahul Upadhay"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "5",
+        "Assignment_Title": "Product Addvertisement",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Completed",
+        "Created_Date": "2023-04-03",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-04-30",
+        "TeamJson": {
+            "Designer": "Kedar Kumar,Manav Jagtap,Rohit Agarwal",
+            "Animator": "Om Malandkar,Swaroop Surve",
+            "Sales": "Vinit Narvekar,Disha Malandkar,Rahul Upadhay"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "6",
+        "Assignment_Title": "Developing Application",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Completed",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-17",
+        "Completion_Date": "2023-09-26",
+        "TeamJson": {
+            "Designer": "Kedar Kumar,Rohit Agarwal",
+            "Animator": "Om Malandkar,Swaroop Surve,Jayant shah",
+            "Sales": "Vinit Narvekar,Disha Malandkar"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "8",
+        "Assignment_Title": "Coding Software",
+        "Assignment_Type": "Changes",
+        "Assignment_Status": "Not Started",
+        "Created_Date": "2023-04-10",
+        "Started_Date": "2023-04-17",
+        "Completion_Date": "2023-08-30",
+        "TeamJson": {
+            "Designer": "Kedar Kumar,Manav Jagtap,Rohit Agarwal",
+            "Animator": "Om Malandkar,Swaroop Surve,Jayant shah",
+            "Sales": "Vinit Narvekar"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "9",
+        "Assignment_Title": "Antivirus Software",
+        "Assignment_Type": "New",
+        "Assignment_Status": "WIP",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-24",
+        "Completion_Date": "2023-07-31",
+        "TeamJson": {
+            "Designer": "Manav Jagtap",
+            "Animator": "Om Malandkar",
+            "Sales": "Vinit Narvekar,Disha Malandkar"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "10",
+        "Assignment_Title": "Infosys App Designing",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Not Started",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-07-30",
+        "TeamJson": {
+            "Designer": "Kedar Kumar,Manav Jagtap,Rohit Agarwal",
+            "Animator": "Om Malandkar,Swaroop Surve",
+            "Sales": "Vinit Narvekar"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "11",
+        "Assignment_Title": "College Website Design",
+        "Assignment_Type": "Changes",
+        "Assignment_Status": "WIP",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-07-30",
+        "TeamJson": {
+            "Designer": "Kedar Kumar,Manav Jagtap",
+            "Animator": "Om Malandkar,Swaroop Surve",
+            "Sales": "Vinit Narvekar"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "12",
+        "Assignment_Title": "Euro Truck Simulation Game",
+        "Assignment_Type": "Changes",
+        "Assignment_Status": "Not Started",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-05-03",
+        "Completion_Date": "2023-07-31",
+        "TeamJson": {
+            "Designer": "Manav Jagtap",
+            "Animator": "Om Malandkar,Swaroop Surve",
+            "Sales": "Vinit Narvekar,Disha Malandkar"
+        },
+        "Project_Manager": "Mahesh Narvekar"
+    },
+    {
+        "ID": "13",
+        "Assignment_Title": "Tupper Ware Advertisement",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Completed",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-19",
+        "Completion_Date": "2023-06-26",
+        "TeamJson": {
+            "Designer": "Sushant Rane,Bhargavi Pednekar,Divesh Jain",
+            "Animator": "Vedant Pednekar",
+            "Sales": "Ayush Rane,snehal Temkar,Joy Fernandis"
+        },
+        "Project_Manager": "Jayesh Roy"
+    },
+    {
+        "ID": "14",
+        "Assignment_Title": "Toyata Car Design",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Not Started",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-19",
+        "Completion_Date": "2023-07-30",
+        "TeamJson": {
+            "Designer": "Sushant Rane,Bhargavi Pednekar,Divesh Jain",
+            "Animator": "Vedant Pednekar,Kishor gupta",
+            "Sales": "Ayush Rane,snehal Temkar"
+        },
+        "Project_Manager": "Jayesh Roy"
+    },
+    {
+        "ID": "15",
+        "Assignment_Title": "Road Safety Animation Module ",
+        "Assignment_Type": "Changes",
+        "Assignment_Status": "WIP",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-30",
+        "Completion_Date": "2023-06-06",
+        "TeamJson": {
+            "Designer": "Sushant Rane,Bhargavi Pednekar",
+            "Animator": "Vedant Pednekar,Kishor gupta,Chetan patel",
+            "Sales": "Ayush Rane"
+        },
+        "Project_Manager": "Jayesh Roy"
+    },
+    {
+        "ID": "16",
+        "Assignment_Title": "IRCTC Rail Engine Design",
+        "Assignment_Type": "New",
+        "Assignment_Status": "WIP",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-23",
+        "Completion_Date": "2023-06-25",
+        "TeamJson": {
+            "Designer": "Sushant Rane,Bhargavi Pednekar,Divesh Jain",
+            "Animator": "Vedant Pednekar,Kishor gupta",
+            "Sales": "Ayush Rane"
+        },
+        "Project_Manager": "Jayesh Roy"
+    },
+    {
+        "ID": "17",
+        "Assignment_Title": "TCS Cars Aerdynamics Animation",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Completed",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-24",
+        "Completion_Date": "2023-07-23",
+        "TeamJson": {
+            "Designer": "Sushant Rane,Bhargavi Pednekar,Divesh Jain",
+            "Animator": "Vedant Pednekar,Kishor gupta,Chetan patel",
+            "Sales": "Ayush Rane,snehal Temkar"
+        },
+        "Project_Manager": "Jayesh Roy"
+    },
+    {
+        "ID": "18",
+        "Assignment_Title": "Engine Oil Advertisement",
+        "Assignment_Type": "New",
+        "Assignment_Status": "WIP",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-04-30",
+        "TeamJson": {
+            "Designer": "Sushant Rane,Bhargavi Pednekar",
+            "Animator": "Vedant Pednekar,Kishor gupta",
+            "Sales": "Ayush Rane,snehal Temkar,Joy Fernandis"
+        },
+        "Project_Manager": "Jayesh Roy"
+    },
+    {
+        "ID": "19",
+        "Assignment_Title": "Airtel Advertisement",
+        "Assignment_Type": "Changes",
+        "Assignment_Status": "WIP",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-04-30",
+        "TeamJson": {
+            "Designer": "Sushant Rane,Bhargavi Pednekar",
+            "Animator": "Vedant Pednekar,Kishor gupta",
+            "Sales": "Ayush Rane,snehal Temkar,Joy Fernandis"
+        },
+        "Project_Manager": "Jayesh Roy"
+    },
+    {
+        "ID": "20",
+        "Assignment_Title": "HK Company Logo",
+        "Assignment_Type": "New",
+        "Assignment_Status": "Not Started",
+        "Created_Date": "2023-04-11",
+        "Started_Date": "2023-04-18",
+        "Completion_Date": "2023-04-30",
+        "TeamJson": {
+            "Designer": "Sushant Rane,Bhargavi Pednekar,Divesh Jain",
+            "Animator": "Vedant Pednekar,Kishor gupta",
+            "Sales": "Ayush Rane"
+        },
+        "Project_Manager": "Jayesh Roy"
+    }
+]
