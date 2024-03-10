@@ -145,14 +145,14 @@ function App() {
 
                   <div className="text-center h-screen font-sans sm:overflow-hidden bg-sky-100">
                     <HashRouter>
-                      {/* <Routes> */}
+                      <Routes>
                         <Route path='/login' element={<Login />} />
                         <Route path='/dashboard' element={<Dashboard />} />
                         <Route path='/registration' element={<RegisterEmployee />} />
                         <Route path='/asignNewAssignment' element={<AsignAssignment />} />
                         <Route path='/videoCall' element={<VideoCall />} />
                         <Route path='/tractLocation' element={<TrackLocation />} />
-                      {/* </Routes> */}
+                      </Routes>
                     </HashRouter>
                   </div>
 

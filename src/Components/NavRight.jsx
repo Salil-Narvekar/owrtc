@@ -70,7 +70,7 @@ const NavRight = () => {
               name="logout"
               buttonLable="Logout"
               onClick={() => {
-                navigate("/");
+                navigate("/login");
                 loggedUserDetails.dispatch({ type: "loggedOut" });
               }}
             />
