@@ -144,7 +144,6 @@ function App() {
                 <FetchAssignmentIdDetails.Provider value={{ fetchAssignmentIdDetails: fetchAssignmentIdDetails, dispatch: dispatchAssignmentIdDetails }}>
 
                   <div className="text-center h-screen font-sans sm:overflow-hidden bg-sky-100">
-                    {/* <BrowserRouter basename={process.env.PUBLIC_URL}> */}
                     <HashRouter>
                       <Routes>
                         <Route path='/login' element={<Login />} />
