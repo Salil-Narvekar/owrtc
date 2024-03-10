@@ -144,7 +144,7 @@ function App() {
                 <FetchAssignmentIdDetails.Provider value={{ fetchAssignmentIdDetails: fetchAssignmentIdDetails, dispatch: dispatchAssignmentIdDetails }}>
 
                   <div className="text-center h-screen font-sans sm:overflow-hidden bg-sky-100">
-                    <HashRouter basename='/owrtc/'>
+                    <HashRouter>
                       <Routes>
                         <Route path='/' element={<Navigate to='/login' />} />
                         <Route path='/login' element={<Login />} />
