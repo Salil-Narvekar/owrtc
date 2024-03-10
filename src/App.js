@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useReducer, createContext } from 'react'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import employeeData from './JsonFiles/employeeData.json'
 import assignmentData from './JsonFiles/assignmentData.json'
 import Login from './Components/Login';
@@ -144,16 +144,17 @@ function App() {
                 <FetchAssignmentIdDetails.Provider value={{ fetchAssignmentIdDetails: fetchAssignmentIdDetails, dispatch: dispatchAssignmentIdDetails }}>
 
                   <div className="text-center h-screen font-sans sm:overflow-hidden bg-sky-100">
-                    <BrowserRouter basename={process.env.PUBLIC_URL}>
+                    {/* <BrowserRouter basename={process.env.PUBLIC_URL}> */}
+                    <HashRouter>
                       <Routes>
-                        <Route exact path='/owrtc' element={<Login />} />
+                        <Route path='/login' element={<Login />} />
                         <Route path='/dashboard' element={<Dashboard />} />
                         <Route path='/registration' element={<RegisterEmployee />} />
                         <Route path='/asignNewAssignment' element={<AsignAssignment />} />
                         <Route path='/videoCall' element={<VideoCall />} />
                         <Route path='/tractLocation' element={<TrackLocation />} />
                       </Routes>
-                    </BrowserRouter>
+                    </HashRouter>
                   </div>
 
                 </FetchAssignmentIdDetails.Provider>
