@@ -144,9 +144,9 @@ function App() {
                 <FetchAssignmentIdDetails.Provider value={{ fetchAssignmentIdDetails: fetchAssignmentIdDetails, dispatch: dispatchAssignmentIdDetails }}>
 
                   <div className="text-center h-screen font-sans sm:overflow-hidden bg-sky-100">
-                    <BrowserRouter>
+                    <BrowserRouter basename='/owrtc'>
                       <Routes>
-                        <Route path='/' element={<Login />} />
+                        <Route exact path='/owrtc' element={<Login />} />
                         <Route path='/dashboard' element={<Dashboard />} />
                         <Route path='/registration' element={<RegisterEmployee />} />
                         <Route path='/asignNewAssignment' element={<AsignAssignment />} />
