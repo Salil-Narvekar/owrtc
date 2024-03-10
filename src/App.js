@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useReducer, createContext } from 'react'
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route, Navigate } from "react-router-dom";
 import employeeData from './JsonFiles/employeeData.json'
 import assignmentData from './JsonFiles/assignmentData.json'
 import Login from './Components/Login';
@@ -146,6 +146,7 @@ function App() {
                   <div className="text-center h-screen font-sans sm:overflow-hidden bg-sky-100">
                     <HashRouter>
                       <Routes>
+                        <Route path='/' element={<Navigate to='/login' />} />
                         <Route path='/login' element={<Login />} />
                         <Route path='/dashboard' element={<Dashboard />} />
                         <Route path='/registration' element={<RegisterEmployee />} />
