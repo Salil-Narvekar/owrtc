@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/owrtc/static/css/main.4f15c84e.css",
-    "main.js": "/owrtc/static/js/main.593ce808.js",
-    "static/js/453.5fbf5232.chunk.js": "/owrtc/static/js/453.5fbf5232.chunk.js",
-    "index.html": "/owrtc/index.html",
-    "main.4f15c84e.css.map": "/owrtc/static/css/main.4f15c84e.css.map",
-    "main.593ce808.js.map": "/owrtc/static/js/main.593ce808.js.map",
-    "453.5fbf5232.chunk.js.map": "/owrtc/static/js/453.5fbf5232.chunk.js.map"
+    "main.css": "/Salil-Narvekar/owrtc.git/static/css/main.4f15c84e.css",
+    "main.js": "/Salil-Narvekar/owrtc.git/static/js/main.ff56a382.js",
+    "static/js/453.5fbf5232.chunk.js": "/Salil-Narvekar/owrtc.git/static/js/453.5fbf5232.chunk.js",
+    "index.html": "/Salil-Narvekar/owrtc.git/index.html",
+    "main.4f15c84e.css.map": "/Salil-Narvekar/owrtc.git/static/css/main.4f15c84e.css.map",
+    "main.ff56a382.js.map": "/Salil-Narvekar/owrtc.git/static/js/main.ff56a382.js.map",
+    "453.5fbf5232.chunk.js.map": "/Salil-Narvekar/owrtc.git/static/js/453.5fbf5232.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f15c84e.css",
-    "static/js/main.593ce808.js"
+    "static/js/main.ff56a382.js"
   ]
 }
