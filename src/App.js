@@ -146,7 +146,7 @@ function App() {
                   <div className="text-center h-screen font-sans sm:overflow-hidden bg-sky-100">
                     <BrowserRouter>
                       <Routes>
-                        <Route path='/' element={<Login />} />
+                        <Route path='/login' element={<Login />} />
                         <Route path='/dashboard' element={<Dashboard />} />
                         <Route path='/registration' element={<RegisterEmployee />} />
                         <Route path='/asignNewAssignment' element={<AsignAssignment />} />
