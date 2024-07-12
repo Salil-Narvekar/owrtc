@@ -129,6 +129,11 @@ const reducerAssignmentIdDetails = (state, action) => {
 }
 
 function App() {
+
+  useEffect(() => {
+    document.title = "OWRTC";
+  }, []);
+
   const [loggedUser, dispatchUser] = useReducer(reducerUser, initialUserState);
   const [fetchEmployeeIdDetails, dispatchEmployeeIdDetails] = useReducer(reducerEmployeeIdDetails, initialEmployeeIdDetailsState);
   const [fetchAssignmentIdDetails, dispatchAssignmentIdDetails] = useReducer(reducerAssignmentIdDetails, initialAssignmentIdDetails);
